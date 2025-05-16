@@ -28,7 +28,7 @@ sudo apt-get install pcscd libpcsclite-dev
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/nfc-auth.git
+git clone https://github.com/Zaur-Lumanov/nfc-auth.git
 cd nfc-auth
 ```
 
